@@ -1,0 +1,11 @@
+[
+	{
+		"id": "3",
+		"name": "Multiple Object Detection in WebXR",
+		"iconpath":"webxr-tensorflow/images/",
+		"htmlpath": "webxr-tensorflow/",
+		"info":"Work on safari iOS (> iPhone 7) and all computer browsers."
+	}
+	
+	
+]
